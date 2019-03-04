@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">RevuesOnLine</string>
+    <string name="app_btn">CONNEXION</string>
+    <string name="text_email">E-mail</string>
+    <string name="text_pwd">Password</string>
+    <string name="text_top">Welcome to RevuesOnLine!</string>
+    <string name="edit_ref">Reference</string>
+    <string name="edit_title">Title</string>
+    <string name="edit_desc">Description</string>
+    <string name="edit_fee">Fee</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_addang">Update</string>
+    <string name="btn_return">Return</string>
+    <string name="title_activity_list">activity_list</string>
+    <string name="WelcomeMessage">Welcome %1$s</string>
+    <string name="p_quo">Daily</string>
+    <string name="p_heb">Weekly</string>
+    <string name="p_bi">Bimonthly</string>
+    <string name="p_men">Monthly</string>
+    <string name="p_tri">Quarterly</string>
+</resources>
