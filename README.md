@@ -1,6 +1,6 @@
 # Développement Mobile
 
-gestion des abonnements aux revues
+Gestion des abonnements aux revues
 
 ## Objectifs
 
